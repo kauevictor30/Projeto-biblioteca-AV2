@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "livro_id": 1,
+        "usuario_id": 1,
+        "data_emprestimo": "2025-06-10",
+        "data_devolucao": "2025-06-10"
+    }
+]
